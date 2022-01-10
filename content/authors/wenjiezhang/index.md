@@ -14,7 +14,8 @@ organizations:
   url: "https://www.cse.unsw.edu.au/~zhangw/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD scholarships avaialble with living allowance plus tuition fee waiver. Applicants supported by the China Scholarship Council will receive further top-up on living allowance. Please send me an email with your CV if you are interested in doing PhD with me. Current UNSW Master by Course and undergraduate students are welcome to apply for Master by Research or PhD degree. Feel free to send me an email or drop by my office to discuss. 
+bio: My research interests include data management and analytics for large data, especially for graph/network, spatial-temporal and image data.
+
 
 
 interests:
