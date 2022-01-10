@@ -44,6 +44,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.au/citations?user=W_56Gb0AAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dwio
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- lecturer
+- Research Fellows
 ---
 
 I am a lecturer at the University of New South Wales (UNSW). I received my Ph.D. degree in 2019 from the University of Technology Sydney (UTS), Australia. Prior to that, I received my Bachelor degree from the Nankai University, China in 2013. I had worked as a postdoctoral research fellow from 2019 to 2021 at UTS and joined UNSW in 2021.
