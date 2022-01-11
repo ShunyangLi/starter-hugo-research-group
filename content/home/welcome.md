@@ -6,6 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
+height: 30
 # title: |
 #   DKG 
 # hero_media: welcome.jpg
