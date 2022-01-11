@@ -1,5 +1,5 @@
 ---
-title: Projects 
+title:  
 headless: true
 view: 4
 

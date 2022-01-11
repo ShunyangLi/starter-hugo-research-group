@@ -1,5 +1,5 @@
 ---
-title: Projects 
+title:  
 headless: true
 view: 4
 
@@ -13,10 +13,13 @@ The courses we provided:
 1. COMP9311/COMP3311 - Introduction to Database Systems
 
 
+
 2. DATA1001 - Data Science and Decisions
 
 
+
 3. COMP9312 - Data Analytics for Graphs
+
 
 
 4. COMP9313 - Big data
