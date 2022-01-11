@@ -3,18 +3,6 @@ title: Projects
 headless: true
 view: 4
 
-content:
-  # Page type to display. E.g. post, event, or publication.
-  page_type: projects
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 0
-  # Page order. Descending (desc) or ascending (asc) date.
-  order: desc
-  # Optionally filter posts by a taxonomy term.
-  filters:
-  order: desc
-  page_type: post
-
 design:
   columns: '1'  # 1 or 2 column layout
   # view: compact  # For new versions since v5.5+, write the view name
