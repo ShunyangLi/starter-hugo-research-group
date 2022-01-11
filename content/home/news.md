@@ -7,23 +7,12 @@ weight: 20
 title: Research Projects
 subtitle:
 
-content:
-  count: 5
-  filters:
-    author: ""
-    category: ""
-    exclude_featured: false
-    publication_type: ""
-    tag: ""
-  offset: 0
-  order: desc
-  page_type: projects
 design:
   view: 1
   columns: "1"
 ---
 
-<!-- - 2020 - 2022 Australian Research Council Discovery Project (DP200101338): Structure Search Over Large Scale Heterogeneous Information Networks, $540,000, Xuemin Lin.
+- 2020 - 2022 Australian Research Council Discovery Project (DP200101338): Structure Search Over Large Scale Heterogeneous Information Networks, $540,000, Xuemin Lin.
 
 - 2020 - 2022 Australian Research Council Discovery Project (DP200101116): Cohesive Subgraph Discovery on Big Bipartite Graphs, $430,000, Wenjie Zhang.
 
@@ -43,4 +32,4 @@ design:
 
 - 2012 - 2014 Australian Research Council Discovery Early Career Researcher Award (DE120102144): Continuously Monitoring Uncertain Objects in a Multi-dimensional Space, $375, 000, Wenjie Zhang.
 
-- 2012 - 2014 Australian Research Council Discovery Project (DP120104168): Ranking Complex Objects in a Multi-dimensional Space, $350, 000, Xuemin Lin and Wenjie Zhang. -->
+- 2012 - 2014 Australian Research Council Discovery Project (DP120104168): Ranking Complex Objects in a Multi-dimensional Space, $350, 000, Xuemin Lin and Wenjie Zhang.
