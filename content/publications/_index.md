@@ -1,5 +1,6 @@
 ---
-title: Publications 
+title: Publications
+headless: true 
 view: 4
 
 content:
