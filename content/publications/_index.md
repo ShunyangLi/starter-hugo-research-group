@@ -1,5 +1,5 @@
 ---
-title: 
+title: Publications 
 view: 4
 
 content:
