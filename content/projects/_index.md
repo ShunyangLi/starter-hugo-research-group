@@ -1,26 +1,24 @@
 ---
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-headless: true
-weight: 20
-
-title: Research Projects
-subtitle:
+title: Projects 
+view: 4
 
 content:
-  count: 5
+  # Page type to display. E.g. post, event, or publication.
+  page_type: projects
+  # Choose how much pages you would like to display (0 = all pages)
+  count: 0
+  # Page order. Descending (desc) or ascending (asc) date.
+  order: desc
+  # Optionally filter posts by a taxonomy term.
   filters:
-    author: ""
-    category: ""
-    exclude_featured: false
-    publication_type: ""
-    tag: ""
-  offset: 0
   order: desc
   page_type: post
+
 design:
-  view: 1
-  columns: "1"
+  columns: '1'  # 1 or 2 column layout
+  # view: compact  # For new versions since v5.5+, write the view name
+  view: 1  # For older versions prior to v5.5, use the numeric IDs above
+#   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 ---
 
 - 2020 - 2022 Australian Research Council Discovery Project (DP200101338): Structure Search Over Large Scale Heterogeneous Information Networks, $540,000, Xuemin Lin.

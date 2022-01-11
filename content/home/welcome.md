@@ -7,8 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  UNSW DB  
-  Research Group
+  DKG 
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,7 +19,7 @@ design:
 
 <br>
 
-The **UNSW Data and Knowledge Rearch Group** has been a center of excellence for data management and analytics for large data, especially for graph/network, spatial-temporal and image data.
+The UNSW Data and Knowledge Rearch Group has been a center of excellence for data management and analytics for large data, especially for graph/network, spatial-temporal and image data.
 
   
 
