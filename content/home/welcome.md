@@ -33,7 +33,4 @@ design:
 
 <br>
 
-The UNSW Data and Knowledge Rearch Group has been a center of excellence for data management and analytics for large data, especially for graph/network, spatial-temporal and image data.
-
-  
-
+The UNSW Data and Knowledge Rearch Group is world leading for big data analytics, high dimensional data, graph/network data processing, social network analysis, graph databases and artificial intelligence.
