@@ -22,7 +22,7 @@ header:
 
 
 1. Yishu Wang, Ye Yuan, Wenjie Zhang, Yi Zhang, Xuemin Lin and Guoren Wang. **Reachability-Driven Influence Maximization in Time-dependent Road-social Networks**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
-
+<br/>
 
 2. Deming Chu, Fan Zhang, Wenjie Zhang, Xuemin Lin and Ying Zhang. **Hierarchical Core Decomposition in Parallel: From Construction to Subgraph Search**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
 
