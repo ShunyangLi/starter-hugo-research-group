@@ -1,8 +1,5 @@
 ---
 title: Publications
-view: 4
-headless: true
-
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: publication
@@ -11,10 +8,10 @@ content:
   # Page order. Descending (desc) or ascending (asc) date.
   order: desc
   # Optionally filter posts by a taxonomy term.
-  # filters:
-  #   tag: ''
-  #   category: ''
-  #   publication_type: ''
+  filters:
+  
+view: 4
+headless: true
 
 header:
   caption: ""
