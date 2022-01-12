@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 68
 
 title: 
 subtitle:
@@ -28,4 +28,5 @@ design:
   show_interests: false
   show_role: true
   show_social: true
+  columns: "1"
 ---
