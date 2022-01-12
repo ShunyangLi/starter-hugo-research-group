@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoc
+- Research Fellows
 ---
 
 Kai Wang is currently a Postdoctoral Researcher in the Data and Knowledge Research Group at [University of New South Wales](https://www.unsw.edu.au/). He got his Ph.D. from The University of New South Wales in 2020 (advised by [Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/) and [Prof. Wenjie Zhang](http://www.cse.unsw.edu.au/~zhangw/)) and his bachelor’s degree from [Zhejiang University](https://www.zju.edu.cn/) in 2016, both in Computer Science. In 2015, He worked as a research assistant at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).

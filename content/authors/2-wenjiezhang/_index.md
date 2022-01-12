@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professor
+- Collaborators
 ---
 
 Wenjie Zhang is a Professor, ARC Future Fellow and Deputy Head of School (Research) in the School of Computer Science and Engineering, the University of New South Wales, Australia. Her research interests include spatial-temporal data analysis, uncertain data analysis and graph data processing. Since 2008, she has published more than 100 papers in top venues such as TKDE, TODS, VLDBJ, SIGMOD, VLDB, and ICDE. She received the Australian Research Council Future Fellowship (FT3) in 2021 and Discovery Early Career Researcher Award in 2011. In 2019, she received the prestigious Chris Wallace Award for her significant contributions to large-scale graph data processing. Since 2012, her research has been well supported by 9 Australian Research Council grants and several other UNSW and industry funding. Wenjie is an Associate Editor for IEEE Transactions on Knowledge and Data Engineering. 

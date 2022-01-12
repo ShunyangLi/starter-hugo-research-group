@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Fellows
+- Collaborators
 ---
 
 I am a lecturer at the University of New South Wales (UNSW). I received my Ph.D. degree in 2019 from the University of Technology Sydney (UTS), Australia. Prior to that, I received my Bachelor degree from the Nankai University, China in 2013. I had worked as a postdoctoral research fellow from 2019 to 2021 at UTS and joined UNSW in 2021.

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: 
 subtitle:
 
 content:
@@ -18,6 +18,8 @@ content:
   user_groups:
   - Head
   - Professor
+  - Collaborators
+  - Joint Professor
   - Research Fellows
   - Lecturer
   - Postdoc

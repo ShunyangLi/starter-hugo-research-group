@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Fellows
+- Collaborators
 ---
 
 I am a senior lecturer (equivalent to a tenured position in the North American system) in the School of Computer Science and Engineering (CSE) at The University of New South Wales (UNSW) in Australia. I am also currently an ARC DECRA Fellow (awarded in 2018). I had worked as a lecturer in the Knowledge and Data Engineering research cluster within the School of Electronics, Electrical Engineering and Computer Science at Queen’s University Belfast (QUB) in UK from 2014 to 2016.
