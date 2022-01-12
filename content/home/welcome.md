@@ -6,8 +6,9 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: |
-  **Data and Knowledge Rearch Group **
+title: 
+# title: |
+#   Data and Knowledge Rearch Group
 hero_media: welcome.jpg
 # design:
 #   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -32,5 +33,5 @@ hero_media: welcome.jpg
 ---
 
 <br>
-
+<h1><strong>Data and Knowledge Rearch Group</strong></h1>
 <p style="font-size: 1.25rem">The UNSW Data and Knowledge Rearch Group is world leading for big data analytics, high dimensional data, graph/network data processing, social network analysis, graph databases and artificial intelligence.</p>
