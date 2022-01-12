@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-#   - course: PhD in Computer Science and Engineering
-#     institution: UNSW
-#     year: 2020
-#   - course: bachelor in Computer Science and Engineering
-#     institution:  Zhejiang University
-#     year: 2016
+  - course: PhD in Computer Science and Engineering
+    institution: Hong Kong University of Science & Technology
+    year: Unknown
+  - course: BSc 
+    institution: Australian National University
+    year: Unknown
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
