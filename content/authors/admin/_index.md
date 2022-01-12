@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Head
+- Head of DKR
 ---
 
 Xuemin Lin is a UNSW Scientia Professor in the School of Computer Science and Engineering at the University of New South Wales. Currently, he is the head of data and knowledge research group in the School of Computer Science and Engineering at UNSW. Xuemin is a fellow of IEEE. Xuemin got his PhD in Computer Science from the University of Queensland (Australia) in 1992 and his BSc in Applied Math from Fudan University (China) in 1984. During 1984-1988, he studied for PhD in Applied Math at Fudan University.

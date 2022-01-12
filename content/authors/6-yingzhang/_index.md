@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Ying Zhang
+weight: 1
 
 # Is this the primary user of the site?
 superuser: true
@@ -57,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Joint Professor
+- Adjoint Professor
 ---
 
 I am a Professor  and ARC Future Fellow at the University of Technology, Sydney (UTS). I received the Bachelor and Master degree in Computer Science from Peking University, P.R. China, in July 1998 and July 2001. I got the PhD in April 2008 from the School of Computer Science and Engineering, the University of New South Wales (UNSW), Australia. I had worked as a research fellow from 2008 to 2013 in database group of UNSW and Join UTS as  a senior Lecture in 2014.  I have intensively published  research results in top venues such as  SIGMOD, SIGIR, VLDB, ICDE ,TKDE, VLDBJ,  and TODS. I had received seven ARC grants which are under the National Competitive Grants Programme (NCGP) including one ARC ADP fellowship, one ARC DECRA fellowship, one ARC future fellowship and four ARC discovery projects.

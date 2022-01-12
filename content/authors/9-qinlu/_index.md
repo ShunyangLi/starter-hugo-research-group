@@ -1,38 +1,33 @@
 ---
 # Display name
-title: Dong Wen
-weight: 5
+title: Lu Qin
+weight: 2
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Lecturer at the University of New South Wales (UNSW)
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: The University of New South Wales
-  url: "https://dwio.github.io/"
+- name: University of Technology, Sydney
+  url: "https://profiles.uts.edu.au/lu.qin"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in BIG GRAPH PROCESSING, GRAPH MINING and SOCIAL ANALYSIS.
-
+bio: My research interests include Big Graph Analytics and Graph Query Processing.
 
 
 
 interests:
-- BIG GRAPH PROCESSING
-- GRAPH MINING
-- SOCIAL ANALYSIS
+- Big Graph Analytics
+- Graph Query Processing
 
 education:
   courses:
   - course: PhD in Computer Science and Engineering
-    institution: UTS
-    year: 2019 
-  - course: bachelor in Computer Science and Engineering
-    institution: Nankai University
-    year: 2013
+    institution: Chinese University of Hong Kong
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,13 +36,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'DONG.WEN@UNSW.EDU.AU'
+  link: 'Lu.Qin@uts.edu.au'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com.au/citations?user=W_56Gb0AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/dwio
+  link: https://scholar.google.com/citations?hl=en&user=DQHL47oAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Academic Members
+- Adjoint Professor
 ---
 
-I am a lecturer at the University of New South Wales (UNSW). I received my Ph.D. degree in 2019 from the University of Technology Sydney (UTS), Australia. Prior to that, I received my Bachelor degree from the Nankai University, China in 2013. I had worked as a postdoctoral research fellow from 2019 to 2021 at UTS and joined UNSW in 2021.
+In July of 2006, I received my bachelor degree from department of Computer Science and Technology in Renmin University of China (RUC). In August of 2010, I received the Ph.D degree in the Chinese University of Hong Kong (CUHK). My thesis adviser is Prof. Jeffrey Xu Yu. I have been a postdocin the Chinese University of Hong Kong from August 2010 to August 2013. I am now a senior lecturerand a core member in the Centre of Artificial Intelligence (CAI) in University of Technology, Sydney (UTS). My research interests include Big Graph Analytics and Graph Query Processing.

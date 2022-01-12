@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Raymond Wong
-
+weight: 3
 # Is this the primary user of the site?
 superuser: true
 
@@ -62,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborators
+- Academic Members
 ---
 
 I am currently the Director of Online Education and an Associate Professor in the School of Computer Science & Engineering at UNSW Sydney. I am also the Data Science Consultant at UNSW Mark Wainwright Analytical Centre (Stats Central). I have published 56 journal papers, 170 conference papers, and 2 US granted patents in various fields of computer science. I have received 8 best research/paper awards and 4 industry/professional awards. I have supervised a total of 25 PhDs, 3 MPhils, and 65 honours thesis students to completion. Six of my supervised honours students graduated with prestigious University Medals. From 2005-2011, I was the Database Research Group Leader at NICTA (Data61/CSIRO). I have co-founded several technology startup companies. I received my BSc from Australian National University; and MPhil and PhD from Hong Kong University of Science & Technology. 
