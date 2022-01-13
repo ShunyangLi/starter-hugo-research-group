@@ -34,4 +34,4 @@ hero_media: welcome.jpg
 
 <br>
 <h1 style="margin: 0 0 1rem 0;font-size: 3rem;line-height: 3.5625rem; color: #333;"><strong>Data and Knowledge Rearch Group</strong></h1>
-<p style="font-size: 1.25rem">The UNSW Data and Knowledge Rearch Group is world leading for big data analytics, high dimensional data, graph/network data processing, social network analysis, graph databases and artificial intelligence.</p>
+<p style="font-size: 1.25rem">The UNSW Data and Knowledge Research Group is world leading for big data analytics, high dimensional data, graph/network data processing, social network analysis, graph databases and artificial intelligence.</p>
