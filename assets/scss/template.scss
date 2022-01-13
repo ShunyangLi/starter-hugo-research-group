@@ -7,9 +7,11 @@
 .cta-group {
   justify-content: center;
 }
-
+body {
+  margin-top: 2px;
+}
 .navbar {
-  height: 40px;
+  height: 70px;
   background: #fff;
   box-shadow: unset;
   border-bottom: 1px solid black;
