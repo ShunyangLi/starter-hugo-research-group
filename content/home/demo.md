@@ -21,5 +21,5 @@ content:
   page_type: demo
 design:
   view: 5
-  columns: "1"
+  columns: "2"
 ---
