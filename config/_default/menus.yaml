@@ -16,6 +16,9 @@ main:
   - name: Publications
     url: publications
     weight: 40
+  - name: Demonstration
+    url: demo
+    weight: 45
   - name: News
     url: post
     weight: 60
