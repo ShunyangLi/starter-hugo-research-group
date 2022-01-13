@@ -5,7 +5,7 @@ headless: true
 weight: 25
 
 title: >-
-  <h1 style="margin: 0 0 1rem 0;font-size: 2.5rem;line-height: 3.5625rem; color: #333;"><strong>Latest News</strong></h1>
+  <h1 style="margin: 0 0 1rem 0;font-size: 2.5rem;line-height: 3.5625rem; color: #333;"><strong>Project demonstrations</strong></h1>
 subtitle:
 
 content:
@@ -18,7 +18,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  page_type: demo
 design:
   view: 3
   columns: "1"
