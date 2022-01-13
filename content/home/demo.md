@@ -20,7 +20,7 @@ content:
   order: desc
   page_type: demo
 design:
-  view: 5
+  view: 2
   columns: "2"
   flip_alt_rows: true
 ---
