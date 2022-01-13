@@ -22,4 +22,5 @@ content:
 design:
   view: 5
   columns: "2"
+  flip_alt_rows: true
 ---
