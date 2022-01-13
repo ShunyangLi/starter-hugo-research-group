@@ -27,6 +27,15 @@ body {
 }
 
 .nav-link {
-  color: #34495e;
-  font-weight:bold
+  color: #333;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  color: #333;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: 800;
+  position: relative;
+  z-index: 1030;
 }
