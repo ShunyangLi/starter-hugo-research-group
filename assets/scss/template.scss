@@ -7,3 +7,17 @@
 .cta-group {
   justify-content: center;
 }
+
+.navbar {
+  height: 70px;
+  background: #fff;
+  // box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 11%);
+  border-bottom: transparent solid 1px;
+  font-size: 13.86px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  padding: 0 1rem;
+}
