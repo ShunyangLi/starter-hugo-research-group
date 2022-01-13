@@ -20,6 +20,7 @@ content:
   order: desc
   page_type: post
 design:
-  view: 2
+  view: 5
   columns: "2"
+  flip_alt_rows: true
 ---
