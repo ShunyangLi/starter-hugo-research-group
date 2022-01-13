@@ -22,6 +22,7 @@ content:
   - Research Fellows
   - PhD Students
   - MPhil Students
+  - Alumni
   - Lecturer
   - Postdoc
 design:
