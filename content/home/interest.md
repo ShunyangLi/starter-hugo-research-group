@@ -6,8 +6,6 @@
 widget: pages  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 15  # Order that this section will appear.
-title: |
-  What we do
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -32,6 +30,8 @@ design:
 #     text_color_light: true
 ---
 
+
+<h1 style="margin: 0 0 1rem 0;font-size: 3rem;line-height: 3.5625rem; color: #333;"><strong>What we do</strong></h1>
+
 <br>
-<h1 style="margin: 0 0 1rem 0;font-size: 3rem;line-height: 3.5625rem; color: #333;"><strong>Data and Knowledge Rearch Group</strong></h1>
 <p style="font-size: 1.25rem">The UNSW Data and Knowledge Rearch Group is world leading for big data analytics, high dimensional data, graph/network data processing, social network analysis, graph databases and artificial intelligence.</p>
