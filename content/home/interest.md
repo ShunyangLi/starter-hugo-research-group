@@ -16,5 +16,4 @@ design:
 
 <p style="font-size: 1.25rem">The research areas: </p>
 <p style="font-size: 1.25rem">In databases, his research areas include data mining, data streams, distributed database systems, spatial database systems, and web databases. Currently, he is working on data streams,, approximate query processing, spatial data processing , probabilistic queries, Graph Databases , and web information processing.</p>
-<br>
 <p style="font-size: 1.25rem">Graph visualisation is to display a graph according to the aesthetics from applications; for example, one may wish to draw a graph symmetrically if possible. Graph visualisation serves as a tool in many applications. A number of topics have been covered by Xuemin in graph drawing, which include drawing trees, undirected graphs, directed graphs, and hierarchical graphs. Xuemin's main focus has been on understanding inherent difficulties of drawing problems, and then developing effective drawing algorithms.</p>

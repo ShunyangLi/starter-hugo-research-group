@@ -4,7 +4,8 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: >-
+  <h1 style="margin: 0 0 1rem 0;font-size: 2.5rem;line-height: 3.5625rem; color: #333;"><strong>Latest News</strong></h1>
 subtitle:
 
 content:
